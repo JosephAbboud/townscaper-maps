@@ -2,6 +2,10 @@
 
 ![Mountain Ville](./resources/main-photo.png)
 
+![Game](https://img.shields.io/badge/Game-Townscaper-blue)
+![Type](https://img.shields.io/badge/Type-Map%20Hash-darkcyan)
+![Supports](https://img.shields.io/badge/Supports-Desktop,%20Mobile-teal)
+
 A collection of maps I made in the game Townscaper. These are more or less a collections of cool maps I built with each of them having their own theme going for them. 
 
 ## Contents
@@ -13,6 +17,7 @@ A collection of maps I made in the game Townscaper. These are more or less a col
 
 * [**Maps**](#maps)
     * [Mountain Ville](#mountain-ville)
+    * [Rainbow Riviera](#rainbow-riviera)
     * [Riverland](#riverland)
     * Default Starter Map
 
@@ -45,7 +50,6 @@ Downloading a map to explore on your own device is extremely simple:
 Thats it!
 
 ---
----
 
 # Maps
 
@@ -55,6 +59,13 @@ Thats it!
 
 * **Platform:** Desktop
 * [Map Download](./Desktop/mountain-ville/mountain-ville-final.txt)
+
+## Rainbow Riviera
+
+![Rainbow Riviera as seen from above](./resources/rr-thumbnail.png)
+
+* **Platform:** Desktop
+* [Map Download](./Desktop/rainbow-riviera/rr-final.txt)
 
 ## Riverland
 
