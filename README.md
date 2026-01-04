@@ -19,6 +19,7 @@ A collection of maps I made in the game Townscaper. These are more or less a col
     * [Mountain Ville](#mountain-ville)
     * [Rainbow Riviera](#rainbow-riviera)
     * [Riverland](#riverland)
+    * [Tripolis](#tripolis)
     * Default Starter Map
 
 
@@ -70,3 +71,10 @@ Thats it!
 ## Riverland
 
 * **Platform:** Mobile
+
+## Tripolis
+
+![Tripolis as seen from above](./resources/tripolis.png)
+
+* **Platform:** Desktop
+* [Map Download](./Desktop/tripolis/tripolis-final.txt)
