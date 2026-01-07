@@ -81,7 +81,7 @@ Thats it!
 
 Meadowhaven is a fortified meadow-port set on a wide, irregular island, 
 themed around the countryside. The map is themed on what you might 
-expect to find in the countryside countries like the UK, France, and 
+expect to find in the countryside in countries like the UK, France, and 
 the likes, or at least that was the intended vibe. The internal area 
 includes 4 villages, 2 large villages/towns and 2 smaller clusters of 
 houses, separated by what is intended to look like farmland and woods 
