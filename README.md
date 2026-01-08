@@ -18,6 +18,7 @@ own theme going for them.
     * [Requirements](#requirements)
 
 * [**Maps**](#maps)
+    * [Hoverburg](#hoverburg)
     * [Meadowhaven](#meadowhaven)
     * [Mountain Ville](#mountain-ville)
     * [Rainbow Riviera](#rainbow-riviera)
@@ -70,12 +71,36 @@ Thats it!
 
 # Maps
 
+## Hoverburg
+
+![Hoverburg as seen from above](./resources/hoverburg.png)
+![Hoverburg side view](./resources/hoverburg-wide.png)
+
+* **Platform:** Desktop
+* [Map Download](./Desktop/hoverburg/hoverburg-final.txt)
+
+### Description
+
+Hoverburg is, as the name would suggest, a city in the sky. Leveraging 
+one of the more hidden mechanics in the game, the entire map is fully 
+levitating off the ground, with propellers holding the entire city in 
+the sky. The map features a main central island with a castle at its centerpiece, and branches off into 6 arms. The islands themselves are as symmetric as the game allows (That is, not quite as symmetric as I would've liked, especially for the outermost islands) and all feature a large white building as a centerpiece for each branched island. 
+
+### Development Notes
+
+A hidden game mechanic exists whereby if you build a circle (Or any 
+shape where the corners are triangle blocks) and fill the area in 
+fully, as the triangle corners leave no place for stilts to be 
+generated. A great instruction guide (And the one I followed to 
+discover this trick) showing how this is achieved can be found at this 
+[link](https://steamcommunity.com/sharedfiles/filedetails/?id=2586791516).
+
 ## Meadowhaven
 
 ![Meadowhaven as seen from above](./resources/meadowhaven.png)
 
 * **Platform:** Desktop
-* [Map Download](./Desktop/mountain-ville/mh-final.txt)
+* [Map Download](./Desktop/meadowhaven/mh-final.txt)
 
 ### Description
 
@@ -128,7 +153,7 @@ aren't very pleasant to look at.
 ## Riverland
 
 * **Platform:** Mobile
-* [Map Download](./Desktop/tripolis/riverland-town-save-3.txt)
+* [Map Download](./Mobile/riverland-town/riverland-town-save-3.txt)
 
 ## Tripolis
 
