@@ -6,9 +6,8 @@
 ![Type](https://img.shields.io/badge/Type-Map%20Hash-darkcyan)
 ![Supports](https://img.shields.io/badge/Supports-Desktop,%20Mobile-teal)
 
-A collection of maps I made in the game Townscaper. These are more or 
-less a collections of cool maps I built with each of them having their 
-own theme going for them. 
+A collection of maps I made in the game Townscaper. These are more or less a collections of cool 
+maps I built with each of them having their own theme going for them. 
 
 ## Contents
 
@@ -22,6 +21,7 @@ own theme going for them.
     * [Meadowhaven](#meadowhaven)
     * [Mountain Ville](#mountain-ville)
     * [Rainbow Riviera](#rainbow-riviera)
+    * [RioHaven](#riohaven)
     * [Riverland](#riverland)
     * [Tripolis](#tripolis)
     * Default Starter Map
@@ -29,26 +29,22 @@ own theme going for them.
 
 ## Mobile vs Desktop: Why separate?
 
-The repo is split into two folders for two different versions of the
-game. one for the mobile version of the games and one for desktop
-installations. The reason for this is I've realised after playing on
-both platforms that the map boundaries (Height and area) are actually
-significantly different on these two platforms, so maps made on desktop
-are likely not to fully load on mobile as any blocks beyond the map
-boundaries get removed when loaded in the mobile app. 
+The repo is split into two folders for two different versions of the game. one for the mobile 
+version of the games and one for desktop installations. The reason for this is I've realised after 
+playing on both platforms that the map boundaries (Height and area) are actually significantly 
+different on these two platforms, so maps made on desktop are likely not to fully load on mobile as 
+any blocks beyond the map boundaries get removed when loaded in the mobile app. 
 
-Therefore, I split my maps into two directories based on which platform
-I used to build them. Any maps in the mobile directory can safely be 
-loaded on desktop clients, but the other way round will almost 
-certainly result in a map missing a large part of the build, so I would 
-advice against doing that.
+Therefore, I split my maps into two directories based on which platform I used to build them. Any 
+maps in the mobile directory can safely be loaded on desktop clients, but the other way round will 
+almost certainly result in a map missing a large part of the build, so I would advice against doing 
+that.
 
 **TLDR:**
 
-* Mobile users: Recommended only to use maps in [Mobile](./Mobile/) due
-to desktop having larger map sizes
-* Desktop users: Can load any maps from [Mobile](./Mobile/) and 
-[Desktop](./Desktop/) safely.
+* Mobile users: Recommended only to use maps in [Mobile](./Mobile/) due to desktop having larger 
+map sizes
+* Desktop users: Can load any maps from [Mobile](./Mobile/) and [Desktop](./Desktop/) safely.
 
 ## Downloading Maps
 
@@ -62,8 +58,8 @@ Downloading a map to explore on your own device is extremely simple:
 
 ## Requirements
 
-* The Townscaper App on either Mobile (From App Store, Playstore, etc.) 
-or Desktop (From Steam, etc.)
+* The Townscaper App on either Mobile (From App Store, Playstore, etc.) or Desktop (From Steam, 
+etc.)
 
 Thats it!
 
@@ -81,19 +77,19 @@ Thats it!
 
 ### Description
 
-Hoverburg is, as the name would suggest, a city in the sky. Leveraging 
-one of the more hidden mechanics in the game, the entire map is fully 
-levitating off the ground, with propellers holding the entire city in 
-the sky. The map features a main central island with a castle at its centerpiece, and branches off into 6 arms. The islands themselves are as symmetric as the game allows (That is, not quite as symmetric as I would've liked, especially for the outermost islands) and all feature a large white building as a centerpiece for each branched island. 
+Hoverburg is, as the name would suggest, a city in the sky. Leveraging one of the more hidden 
+mechanics in the game, the entire map is fully levitating off the ground, with propellers holding 
+the entire city in the sky. The map features a main central island with a castle at its 
+centerpiece, and branches off into 6 arms. The islands themselves are as symmetric as the game 
+allows (That is, not quite as symmetric as I would've liked, especially for the outermost islands) 
+and all feature a large white building as a centerpiece for each branched island. 
 
 ### Development Notes
 
-A hidden game mechanic exists whereby if you build a circle (Or any 
-shape where the corners are triangle blocks) and fill the area in 
-fully, as the triangle corners leave no place for stilts to be 
-generated. A great instruction guide (And the one I followed to 
-discover this trick) showing how this is achieved can be found at this 
-[link](https://steamcommunity.com/sharedfiles/filedetails/?id=2586791516).
+A hidden game mechanic exists whereby if you build a circle (Or any shape where the corners are 
+triangle blocks) and fill the area in fully, as the triangle corners leave no place for stilts to 
+be generated. You can find a great instruction guide (Which I used to discover this trick) showing how this is achieved [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2586791516).
+
 
 ## Meadowhaven
 
@@ -104,37 +100,31 @@ discover this trick) showing how this is achieved can be found at this
 
 ### Description
 
-Meadowhaven is a fortified meadow-port set on a wide, irregular island, 
-themed around the countryside. The map is themed on what you might 
-expect to find in the countryside in countries like the UK, France, and 
-the likes, or at least that was the intended vibe. The internal area 
-includes 4 villages, 2 large villages/towns and 2 smaller clusters of 
-houses, separated by what is intended to look like farmland and woods 
-with houses scattered along the plains. Beyond the walls are several 
-access points by sea to fit the oceanic theme of Townscaper, providing 
-access to the map through fishing-town-like settlements. 
+Meadowhaven is a fortified meadow-port set on a wide, irregular island, themed around the 
+countryside. The map is themed on what you might expect to find in the countryside in countries 
+like the UK, France, and the likes, or at least that was the intended vibe. The internal area 
+includes 4 villages, 2 large villages/towns and 2 smaller clusters of houses, separated by what is 
+intended to look like farmland and woods with houses scattered along the plains. Beyond the walls 
+are several access points by sea to fit the oceanic theme of Townscaper, providing access to the 
+map through fishing-town-like settlements. 
 
-The theme of the build centers on a calm, architectural aesthetic with 
-a painterly touch, aiming for a harmonic blend between open fields and 
-cozy villages.
+The theme of the build centers on a calm, architectural aesthetic with a painterly touch, aiming 
+for a harmonic blend between open fields and cozy villages.
 
 ### Development Notes
 
-Extra effort was put into ensuring that the build had a properly 
-networked path system, since you cannot directly build the paths, and 
-even one house placement could completely change the path and fence 
-layout in a huge chunk of the map. Unfortunately, because of how 
-Townscaper generates these paths, the villages do not have any paths 
-going between the houses, which is the opposite of what you would want 
-for a more densly populated area. 
+Extra effort was put into ensuring that the build had a properly networked path system, since you 
+cannot directly build the paths, and even one house placement could completely change the path and 
+fence layout in a huge chunk of the map. Unfortunately, because of how Townscaper generates these 
+paths, the villages do not have any paths going between the houses, which is the opposite of what 
+you would want for a more densly populated area. 
 
-This took a lot more effort and precision than you'd first think as 
-even one incorrect house placement tended to mess up the entire path 
-structure of the map, which really limited how the houses could be 
-placed. Not only that, but some house placements could also completely 
-break the landscape generation where some paths and fences just end 
-abruptly and unnaturally, causing really weird visual glitches which 
-aren't very pleasant to look at. 
+This took a lot more effort and precision than you'd first think as even one incorrect house 
+placement tended to mess up the entire path structure of the map, which really limited how the 
+houses could be placed. Not only that, but some house placements could also completely break the 
+landscape generation where some paths and fences just end abruptly and unnaturally, causing really 
+weird visual glitches which aren't very pleasant to look at. 
+
 
 ## Mountain Ville
 
@@ -149,6 +139,31 @@ aren't very pleasant to look at.
 
 * **Platform:** Desktop
 * [Map Download](./Desktop/rainbow-riviera/rr-final.txt)
+
+## RioHaven
+
+![RioHaven as seen from above](./resources/rh-thumbnail.png)
+![RioHaven Additional Variants](./resources/rh-variants.png)
+
+* **Platform:** Desktop
+* **Downloads:**
+    * [RioHaven: Terrain Only](./Desktop/riohaven/rh-terrain-only.txt)
+    * [RioHaven: Complete Map (Red-Orange)](./Desktop/riohaven/rh-red-orange.txt)
+    * [RioHaven: Beige](./Desktop/riohaven/rh-beige-grey.txt)
+    * [RioHaven: Light Blue](./Desktop/riohaven/rh-light-blues.txt)
+    * [RioHaven: Violet](./Desktop/riohaven/rh-violet.txt)
+    * [RioHaven: Green](./Desktop/riohaven/rh-green.txt)
+
+RioHaven is a sprawling city built across an archipelago of interconnected islands, closely 
+inspired by the city of Venice. The map features a dense Venetian-style urban district made up of 
+alternating red and orange two-storey buildings linked to one another in a continuous layout. The 
+build features a white hexagonal castle as its main centre-piece alongside numerous other landmarks 
+scattered throughout the city.
+
+I have made a total of 5 variations of the RioHaven map, each of which are identically shaped and 
+differ only by the colours of the city buildings. That way, if the original colour scheme does not 
+resonate well with you, you have 4 other colour schemes you can explore.
+
 
 ## Riverland
 
