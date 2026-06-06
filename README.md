@@ -167,8 +167,21 @@ resonate well with you, you have 4 other colour schemes you can explore.
 
 ## Riverland
 
-* **Platform:** Mobile
+![Riverland as seen from above](./resources/riverland-thumbnail.png)
+
+* **Platform:** Mobile, Desktop
 * [Map Download](./Mobile/riverland-town/riverland-town-save-3.txt)
+
+Riverland is a simple, medium-sized Townscaper build centered around a network of canals that 
+divide the town into several connected islands. Most of the buildings use warm pink and orange 
+colors. The town is fairly dense, with closely packed buildings, narrow streets, and numerous 
+bridges linking different sections together. A larger cluster of taller buildings occupies the 
+northern part of the build, while a smaller district of blue, green, and yellow buildings on the 
+eastern side provides some visual variety. The overall layout focuses on waterways and compact 
+urban development rather than large landmarks or open spaces.
+
+This was one of my first builds on Townscaper, and is built directly on Mobile, ensuring 
+compatibility with Mobile Devices. 
 
 ## Tripolis
 
